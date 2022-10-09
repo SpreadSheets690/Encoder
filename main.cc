@@ -1,5 +1,6 @@
 // C++ program to encode an ASCII
 // string in Base64 format
+
 #include <iostream>
 using namespace std;
 #define SIZE 1000
@@ -98,4 +99,4 @@ int main()
 	return 0;
 }
 
-// This code is contributed by shivanisinghss2110
+// This code is uodated and fixed by soham | spreadsheets650
